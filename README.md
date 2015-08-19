@@ -1,2 +1,2 @@
 # programming-problems
-Coded Solutions to Programming Problems Found Online
+Coded solutions to programming problems found online.
